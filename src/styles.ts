@@ -1,4 +1,4 @@
-import { css} from '@emotion/react';
+import { css } from '@emotion/react';
 import styled from '@emotion/styled';
 
 const globalStyles = css`
@@ -9,6 +9,7 @@ const globalStyles = css`
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background-color: #F3F5FC;
   }
 
   code {
@@ -24,7 +25,7 @@ const StyledApp = styled.div`
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #F3F5FC;
 `;
-
 
 export {globalStyles, StyledApp};
