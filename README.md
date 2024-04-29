@@ -1,2 +1,3 @@
-# Decodificador de Texto
-Challenge Alura/Oracle da Turma 6 do Next Education!
+# Challenge Oracle ONE - Iniciante em Programação
+
+Construção do Desafio do Oracle ONE para um decodificador de texto.
